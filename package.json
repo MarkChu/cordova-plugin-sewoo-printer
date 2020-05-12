@@ -1,0 +1,11 @@
+{
+  "name": "sewoo",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Sewoo Bluetooth Printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
